@@ -64,17 +64,17 @@ module.exports = {
         link: "/JavaScript/",
       },
       {
-        text: "Vue",
+        text: "Web",
         items: [
           {
             text: "React",
             link: "https://zh-hans.reactjs.org/",
           },
+          {
+            text: "React",
+            link: "https://zh-hans.reactjs.org/",
+          },
         ],
-      },
-      {
-        text: "React",
-        link: "https://zh-hans.reactjs.org/",
       },
       {
         text: "Nginx",
@@ -111,6 +111,7 @@ module.exports = {
         "/Other/video鼠标移动预览",
         "/Other/SEO优化重要的元标签",
       ],
+      "Hooks":["/Hooks/usePromiseReadyFn"]
     },
     friendLink: [
       {
